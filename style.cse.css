@@ -1,0 +1,17 @@
+Body {
+    padding:  1000 px;
+    margin: 0 px;
+}
+.mycanvas{
+    background-color: aqua;
+    height: 750px;
+    width: 1050px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+   
